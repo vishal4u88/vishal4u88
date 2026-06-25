@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Vishal Kumar
 
+### Technical Support Engineer → Data Analyst & AI Builder
+
 <a href="https://www.linkedin.com/in/vishal-kumar-tse/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -12,7 +14,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+Builder;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Building+AI+Tools+at+HP+Inc.;Turning+Support+Data+into+Business+Insights)](https://github.com/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+AI+Builder;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Built+AI+Tools+that+cut+manual+effort+by+70%25;85%25+Accuracy+ML+Churn+Model;3%2B+Years+%7C+3+Promotions+at+HP+Inc.)](https://github.com/readme-typing-svg)
 
 </div>
 
@@ -20,11 +22,54 @@
 
 ## 🚀 About Me
 
-- 🏢 **Technical Support Engineer (L3)** at **HP Inc., Bengaluru** — Global Commercial & Consumer PC/Print
-- 📊 Pivoting into **Data Analytics & AI/ML** — building real tools, not just learning theory
-- 🤖 Built: Case Management Bot, SupportCopilot AI, Chrome Extension Copilot, Team Feedback Aggregator
-- 🎯 Targeting Senior Data Analyst roles at Razorpay, Flipkart, PhonePe, Amazon India, Swiggy
+> **3+ years · 3 promotions · shipped AI tools used in live production at HP Inc.**
+
+- 🏢 **Technical Support Engineer (L3)** at **HP Inc., Bengaluru** — Global PC & Print support across APAC, EMEA & Americas
+- 🤖 Built & shipped AI tools that **cut manual effort by 70%+** in live support operations
+- 📊 Built an **ML Churn Prediction Model at 85% accuracy** using Python, Scikit-learn, Logistic Regression & Decision Trees
+- 🎯 Targeting **Senior Data Analyst** roles — Razorpay · Flipkart · PhonePe · Amazon India · Swiggy
 - 📜 Certified: **Google Data Analytics** | **DeepLearning.AI**
+- 🔧 Currently completing: **Master Data Analysis** — Python, SQL, Power BI, Tableau, Snowflake, AWS, GenAI
+
+---
+
+## 🏆 Featured Projects
+
+### 🔌 Chrome Extension — AI Support Copilot
+> `JavaScript` · `Chrome Extensions MV3` · `REST APIs` · `DOM Automation`
+
+- Integrated HP enterprise platforms (CDAX, DSL, PartSurfer) into a unified real-time dashboard
+- Automated extraction of case metadata, troubleshooting history & support notes
+- Generated issue summaries, recommended next actions & assisted hardware dispatch decisions
+- **Result: 70%+ reduction in manual case review effort**
+
+---
+
+### 🎙️ SupportCopilot AI — Call Analysis & Documentation Assistant
+> `Python` · `FastAPI` · `Faster-Whisper` · `Ollama` · `Llama 3.1` · `REST APIs`
+
+- On-premise AI pipeline converting support call recordings into structured case documentation
+- Local STT via Faster-Whisper + analysis via Llama 3.1 — **100% privacy-first, fully local**
+- FastAPI REST endpoints with Swagger UI for audio upload, transcription & LLM-powered analysis
+- **Result: Eliminated manual post-call documentation effort entirely**
+
+---
+
+### 📉 Customer Churn Prediction Model
+> `Python` · `Pandas` · `Scikit-learn` · `Logistic Regression` · `Decision Trees`
+
+- End-to-end ML pipeline — data cleaning, feature engineering, class balancing, model training
+- Generated actionable retention strategy recommendations from model outputs
+- **Result: 85% accuracy on real-world customer behavioural data**
+
+---
+
+### 🤖 Case Management Automation Bots
+> `Python` · `REST APIs` · `Process Automation`
+
+- Engineered bots handling case categorisation, status updates & follow-up triggers
+- Eliminated repetitive manual workload team-wide across HP support operations
+- **Result: Adopted org-wide, freeing engineers for high-value work**
 
 ---
 
@@ -37,7 +82,16 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**AI & Automation**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -45,12 +99,12 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI/ML & Dev Tools**
+**Dev Tools & OS**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -71,13 +125,24 @@
 
 ---
 
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| 🎓 **BCA** | University of Engineering & Management, Jaipur — May 2022 |
+| 📜 **Google Data Analytics** | Certified |
+| 🧠 **DeepLearning.AI** | Certified |
+| 📊 **Master Data Analysis** | Python · SQL · Power BI · Tableau · Snowflake · AWS · GenAI · In Progress |
+
+---
+
 ## 🐍 Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/vishal4u88/vishal4u88/output/github-contribution-grid-snake.svg)
 
 ---
 
-> *"Data is the new oil; AI is the refinery."*
+> *"Data is the new oil; AI is the refinery — and I'm here to build both."*
 > — Vishal Kumar
 
 <div align="center">
