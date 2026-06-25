@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Vishal Kumar
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vishal-kumar-tse/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vishaljha4u88@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/vishal4u88">
@@ -83,7 +83,5 @@
 <div align="center">
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=vishal4u88&style=for-the-badge&color=6366F1&label=PROFILE+VISITORS)
-
-*Last updated: auto-synced daily via GitHub Actions*
 
 </div>
