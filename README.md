@@ -217,8 +217,8 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
 
 ### 📈 Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishal4u88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Vishal's+GitHub+Stats" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4u88&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top+Languages" width="49%" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/?username=vishal4u88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Vishal%27s%20GitHub%20Stats" width="49%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishal4u88&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top%20Languages" width="49%" alt="Top Languages" />
 
 ### 🔥 Contribution Streak
 
@@ -226,7 +226,7 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=vishal4u88&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
+<img src="https://trophy.ryglcloud.net/api?username=vishal4u88&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
 
 ### 📅 Contribution Graph
 
