@@ -1,13 +1,13 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal4u88/vishal4u88/main/assets/header-dark.svg">
-    <img alt="Vishal Kumar — Technical Support Engineer | AI & Automation Builder | Full-Stack Developer" src="https://raw.githubusercontent.com/vishal4u88/vishal4u88/main/assets/header-light.svg" width="100%">
+    <img alt="Vishal Kumar — Data Analyst | AI/ML Practitioner | 3+ Yrs Technical Support @ HP Inc." src="https://raw.githubusercontent.com/vishal4u88/vishal4u88/main/assets/header-light.svg" width="100%">
   </picture>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&color=6366F1&center=true&vCenter=true&width=800&lines=Technical+Support+Engineer+%40+HP+Inc.;AI+%26+Automation+Builder;Full-Stack+Developer+(Next.js+%2B+Node.js);Building+AI-powered+Support+Tools;3+Years+%7C+3+Promotions+%7C+HP+Bengaluru)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&color=6366F1&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+AI%2FML+Practitioner;3%2B+Yrs+Technical+Support+%40+HP+Inc.;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+PySpark;Building+ML-Driven+Data+Pipelines;3+Promotions+%7C+HP+Bengaluru)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-kumar-tse/">
@@ -16,7 +16,7 @@
   <a href="mailto:vishaljha4u88@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://vishal4u88.github.io/">
+  <a href="https://vishal-portfolio-swart.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/vishal4u88">
@@ -42,19 +42,21 @@ name: Vishal Kumar
 location: Bengaluru, India
 current_role: Technical Support Engineer (L3) @ HP Inc.
 focus_areas:
+  - Data Analytics & Visualization
+  - AI/ML Solutions
   - Technical Support Engineering
-  - AI & Automation Solutions
   - Full-Stack Web Development
   - Open Source Contributions
 experience:
   - 3+ years at HP Inc. — 3 promotions
+  - Google Data Analytics certified — 3 real-world analytics projects shipped
   - Shipped AI tools in live production
   - Built automation reducing manual effort by 70%+
 email: vishaljha4u88@gmail.com
 linkedin: linkedin.com/in/vishal-kumar-tse/
 ```
 
-> **Technical Support Engineer** by profession, **AI & automation builder** by passion, **full-stack developer** in progress. I engineer solutions that bridge the gap between support operations and cutting-edge AI — turning manual workflows into intelligent, automated systems.
+> **Data Analyst & AI/ML practitioner** by focus, **Technical Support Engineer (L3) @ HP** by profession, **full-stack developer** on the side. Google Data Analytics certified — I turn messy operational data into ML-driven pipelines, dashboards, and decisions.
 
 ---
 
@@ -79,6 +81,16 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 📊 Data Analytics & BI
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 ### 🤖 AI & LLM
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -101,7 +113,56 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Data Analytics & AI/ML Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce Attribution Engine</h3>
+      <p><strong>Product Tagging & Attribution Pipeline</strong></p>
+      <p>Product tagging/attribution pipeline for e-commerce order data — RegEx rules + ML classification for auto-tagging, PySpark for large-scale processing, and SQL models for attribution reporting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+      </p>
+      <p><strong>Focus:</strong> RegEx + ML classification, confidence-scored tagging</p>
+      <a href="https://github.com/vishal4u88/ecommerce-attribution-engine"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚕 NYC Taxi Trip Analysis</h3>
+      <p><strong>7.3M Trips Analyzed — SQL + Power BI</strong></p>
+      <p>Analyzed 7.3M NYC taxi trips with SQL — demand patterns, fare behavior, and route trends — surfaced through an interactive Power BI dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+      </p>
+      <p><strong>Scale:</strong> 7.3M+ trips · demand, fare & route analytics</p>
+      <a href="https://github.com/vishal4u88/nyc-taxi-analysis"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🏷️ Multi-Customer Taxonomy Mapper</h3>
+      <p><strong>Confidence-Scored Auto-Tag vs Manual-Review Routing</strong></p>
+      <p>Built on the attribution-engine dataset — routes products between auto-tagging and manual review by confidence score, and lifted the auto-tag rate from <strong>52.3% → 57.0%</strong> across 2 QA improvement cycles.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat"/>
+      </p>
+      <p><strong>Impact:</strong> Auto-tag rate improved 52.3% → 57.0% over 2 QA cycles</p>
+      <a href="https://github.com/vishal4u88/multi-customer-taxonomy-mapper"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Full-Stack & AI Engineering Projects
 
 <table>
   <tr>
@@ -258,6 +319,8 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
 
 | Role | Why I'm a Fit |
 |:---|:---|
+| 📊 **Data Analyst** | Google Data Analytics certified; built and shipped 3 real-world analytics projects (attribution engine, NYC taxi trip analysis, customer taxonomy mapping) using SQL, Python, Power BI |
+| 🏗️ **Data Operations Analyst / Analytics Engineer** | ML-driven data pipelines (PySpark, RegEx + classification) with measurable QA improvement cycles |
 | 🔧 **Technical Support Engineer (L2/L3)** | 3+ years at HP Inc. — Global enterprise support across APAC, EMEA & Americas |
 | 🤖 **AI Support Engineer** | Built AI tools (SupportCopilot) deployed in live production at HP |
 | ⚡ **Automation Engineer** | Shipped automation reducing manual effort by 70%+ — case management bots, AI pipelines |
@@ -281,16 +344,18 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
 
 ## 🧠 AI Branding
 
-> **"Technical Support Engineer building AI-powered automation tools and modern web applications."**
+> **"Data Analyst & AI/ML practitioner — building ML-driven data pipelines and analytics that turn messy operational data into decisions, backed by 3+ years of enterprise support engineering at HP."**
 
 ### 🔭 Currently Working On
+- **Data Analytics Portfolio** — Attribution engine, NYC taxi trip analysis & customer taxonomy mapping (SQL, Python, Power BI, PySpark)
 - **AI Support Copilot** — Chrome extension integrating HP enterprise platforms into a unified AI dashboard
 - **Full-Stack Portfolio** — Building real-world apps with Next.js 15, TypeScript, Prisma & PostgreSQL
 - **Open Source Contributions** — Sharing AI tools and automation projects with the developer community
 
 ### 🌱 Currently Learning
-- **Advanced Full-Stack Development** — TypeScript, Prisma, PostgreSQL, Next.js App Router
+- **Advanced Data Analytics & BI** — Master Data Analysis track: Python, SQL, Power BI, Tableau, Snowflake
 - **AI/ML Engineering** — LangChain, RAG pipelines, local LLM deployment with Ollama
+- **Advanced Full-Stack Development** — TypeScript, Prisma, PostgreSQL, Next.js App Router
 - **Cloud Architecture** — AWS services, Vercel Edge Functions, serverless deployments
 
 ### 🎯 Future Goals
@@ -311,7 +376,6 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
 |:---|---:|:---:|
 | [🏋️ FitLife AI](https://github.com/vishal4u88/portfolio-fitlife-ai) | AI-powered fitness & nutrition platform | Next.js 15 · TypeScript · Prisma |
 | [🛍️ Lumora](https://github.com/vishal4u88/portfolio-lifestyle-store) | Lifestyle e-commerce storefront | Next.js 15 · TypeScript |
-| [🏠 Real Estate](https://github.com/vishal4u88/portfolio-real-estate) | Real estate platform | Next.js 15 · TypeScript |
 | [✈️ Voyage](https://github.com/vishal4u88/portfolio-travel-booking) | Travel booking app | Next.js 15 · TypeScript |
 | [🍔 Crave](https://github.com/vishal4u88/portfolio-food-delivery) | Food delivery platform | Next.js 15 · TypeScript |
 | [🤖 SupportCopilot AI](https://github.com/vishal4u88/support-copilot-ai) | AI support call analysis | Python · FastAPI · Ollama |
@@ -341,7 +405,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
   <a href="mailto:vishaljha4u88@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://vishal4u88.github.io/">
+  <a href="https://vishal-portfolio-swart.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/vishal4u88">
