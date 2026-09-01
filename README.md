@@ -291,7 +291,7 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
 
 ### 📅 Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal4u88&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity+Graph)](https://github.com/vishal4u88)
+[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal4u88&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity+Graph)](https://github.com/vishal4u88)
 
 </div>
 
