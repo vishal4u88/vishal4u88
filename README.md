@@ -134,7 +134,7 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
     <td width="50%" valign="top">
       <h3>🚕 NYC Taxi Trip Analysis</h3>
       <p><strong>7.3M Trips Analyzed — SQL + Power BI</strong></p>
-      <p>Analyzed 7.3M NYC taxi trips with SQL — demand patterns, fare behavior, and route trends — surfaced through an interactive Power BI dashboard.</p>
+      <p>Analyzed 7.3M NYC taxi trips with SQL to surface demand patterns, fare behavior, and route trends, delivered through an interactive Power BI dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat"/>
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
@@ -144,7 +144,7 @@ linkedin: linkedin.com/in/vishal-kumar-tse/
     </td>
   </tr>
   <tr>
-    <td width="100%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🏷️ Multi-Customer Taxonomy Mapper</h3>
       <p><strong>Confidence-Scored Auto-Tag vs Manual-Review Routing</strong></p>
       <p>Built on the attribution-engine dataset — routes products between auto-tagging and manual review by confidence score, and lifted the auto-tag rate from <strong>52.3% → 57.0%</strong> across 2 QA improvement cycles.</p>
